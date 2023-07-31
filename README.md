@@ -2,3 +2,4 @@
 # Step 2 - create a database named users to store the credentials.
 # Step 3 - modify the register and login target to the main index file .
 # Step 4 - target the main index file in login.php and after that assign a loggout button to logout . 
+# Step 5 - style.css for styling the login and register page.
